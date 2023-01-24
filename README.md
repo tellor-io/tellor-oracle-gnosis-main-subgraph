@@ -30,15 +30,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h2 align="center">tellorFlex-oracle-mumbaih-graph</h2>
+  <h2 align="center">tellor-oracle-gnosis-main-subgraph</h2>
 
   <p align="center">
-    This is the subgraph code for the TellorFlex Oracle contract on Mumbai Testnet.
+    This is the subgraph code for the Tellor Oracle contract on Gnosis Mainnet.
     <br />
     <br />
-    <a href="https://github.com/tellor-io/tellorFlex-oracle-mumbaih-graph/issues">Report Bug</a>
+    <a href="https://github.com/tellor-io/tellor-oracle-gnosis-main-subgraph/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tellor-io/tellorFlex-oracle-mumbaih-graph/issues">Request Feature</a>
+    <a href="https://github.com/tellor-io/tellor-oracle-gnosis-main-subgraph/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/tellor-io/tellorFlex-oracle-mumbaih-graph.git
+   git clone https://github.com/tellor-io/tellor-oracle-gnosis-main-subgraph.git
    ```
 2. Install NPM packages
    ```sh
@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/tellor-io/tellorFlex-oracle-mumbaih-graph/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tellor-io/tellor-oracle-gnosis-main-subgraph-graph/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
