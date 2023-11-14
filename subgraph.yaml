@@ -6,7 +6,7 @@ dataSources:
     name: Contract
     network: gnosis
     source:
-      address: "0x15e6Cc0D69A162151Cadfba035aa10b82b12b970"
+      address: "0x8cFc184c877154a8F9ffE0fe75649dbe5e2DBEbf"
       abi: Contract
     mapping:
       kind: ethereum/events
